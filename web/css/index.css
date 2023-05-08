@@ -1,0 +1,186 @@
+
+
+body{
+    font-size: 19px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#thcarro{
+    height: 50px;
+    color: white;
+    background: black;
+}
+
+#menu{
+    width: 100%;
+    height: 50px;
+    font-size: 22px;
+    background: black;
+    color: white;
+}
+
+#bobo{
+    background-image: url("../imagenes/fon3.jpg");
+    color: white;
+}
+
+#il{
+    font-size: 18px;
+}
+
+#login{
+    text-align: center;
+    font-size: 25px;
+    width: 25%;
+    height: 180px;;
+    margin-left: 20%;
+}
+
+#h1iniciar{
+    margin-left: 27%;
+    margin-top: 18%;
+    
+}
+
+#regispro{
+    font-size: 22px;
+    height: 250px;
+    width: 600px;;
+    text-align: center;
+    border-collapse: 1px;
+    margin-bottom: 40px;
+}
+
+#modi{
+    cursor: pointer;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    width: 120px;
+    color: white;
+    background: black;
+    font-size: 18px;
+    display: none;
+}
+
+#anadir{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    width: 170px;
+    color: white;
+    background: black;
+    font-size: 18px; 
+}
+
+#anadir:hover{
+    color: yellow;
+    width: 172px;
+}
+
+#seguircom{
+    cursor: pointer;
+    color: black;
+}
+
+#seguircom:hover{
+    color: blue;
+}
+
+#menh1{
+    font-size: 30px;
+    color: black;
+    cursor: pointer;
+}
+
+#menh1:hover{
+    color:blue;
+}
+
+
+#comprar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px 5px 5px 5px;
+    height: 60px;
+    width: 190px;
+    color: white;
+    background: black;
+    font-size: 22px; 
+    text-align: center;
+    margin-left: 43%;
+}
+
+#comprar:hover{
+    color: yellow;
+    width: 192px;
+}
+
+#anadircar{
+    font-size: 22px;
+    height: 300px;
+    width: 500px;;
+    text-align: center;
+    border-collapse: 1px;
+    margin-bottom: 40px;
+}
+
+#i{
+    border-radius: 5px;
+    color: black;
+    border: 0;
+    text-align: center;
+    font-size: 17px;
+}
+
+#ic{
+    font-size: 17px;
+    width: 50px;
+}
+
+#registrar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    width: 170px;
+    color: white;
+    background: black;
+    font-size: 18px;
+}
+
+#registrar:hover{
+    color: yellow;
+    width: 172px;
+    height: 42px;
+}
+
+
+#menu a{
+    color: white;
+}
+
+#menu a:hover{
+    color: yellow;
+}
+
+#productos{
+    width: 80%;
+}
+
+#productoscarro{
+    border: black 5px solid;
+    border-collapse: collapse;
+    border: 90px;
+    width: 80%;
+}
+
+#img:hover{
+    cursor: pointer;
+}
